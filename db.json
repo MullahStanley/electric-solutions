@@ -1,0 +1,45 @@
+{
+    "loads": [
+      {
+        "load": "Lighting",
+        "load_power": "100 W",
+        "quantity_of_load": 20,
+        "total_power": "2000 W",
+        "number_of_running_hours": 8,
+        "total_energy": "16 kWh"
+      },
+      {
+        "load": "Refrigerator",
+        "load_power": "150 W",
+        "quantity_of_load": 1,
+        "total_power": "150 W",
+        "number_of_running_hours": 24,
+        "total_energy": "3.6 kWh"
+      },
+      {
+        "load": "Air Conditioner",
+        "load_power": "1000 W",
+        "quantity_of_load": 2,
+        "total_power": "2000 W",
+        "number_of_running_hours": 12,
+        "total_energy": "24 kWh"
+      },
+      {
+        "load": "Computer",
+        "load_power": "200 W",
+        "quantity_of_load": 5,
+        "total_power": "1000 W",
+        "number_of_running_hours": 10,
+        "total_energy": "10 kWh"
+      },
+      {
+        "load": "Television",
+        "load_power": "150 W",
+        "quantity_of_load": 3,
+        "total_power": "450 W",
+        "number_of_running_hours": 6,
+        "total_energy": "2.7 kWh"
+      }
+    ]
+  }
+  
